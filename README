@@ -1,0 +1,3 @@
+toaster.pl: A bus-arrival notification script based on NextBus
+
+This is a backup of the original, since the git repo seems to be gone (toaster is dead). Seems to not parse correctly because the NextBus site changes at some point; but now there is an XML api, so in the future someone should change the parsing function to just parse that XML.
